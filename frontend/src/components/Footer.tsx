@@ -12,9 +12,9 @@ export default function Footer() {
           &copy; {new Date().getFullYear()} Anuj Gupta &middot; Prayagraj, India
         </p>
         <div className="flex items-center gap-4">
-          <a href="mailto:contact@anujgupta.dev" className="text-gray-600 hover:text-gray-400 text-xs transition-colors">Email</a>
-          <a href="https://linkedin.com/in/anujgupta" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-400 text-xs transition-colors">LinkedIn</a>
-          <a href="https://github.com/anujgupta" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-400 text-xs transition-colors">GitHub</a>
+          <a href="mailto:seriouslyanuj@gmail.com" className="text-gray-600 hover:text-gray-400 text-xs transition-colors">Email</a>
+          <a href="https://www.linkedin.com/in/seriouslyanuj/" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-400 text-xs transition-colors">LinkedIn</a>
+          <a href="https://github.com/seriouslyanuj" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-gray-400 text-xs transition-colors">GitHub</a>
         </div>
       </div>
     </footer>

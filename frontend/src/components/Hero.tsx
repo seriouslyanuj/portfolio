@@ -50,7 +50,7 @@ export default function Hero() {
             View Architecture
           </a>
           <a
-            href="/resume.pdf"
+            href="https://drive.google.com/file/d/1jgHVxd3fJhhxPPqakdFyzaO7kEDpmZgw/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 text-sm font-semibold text-gray-900 bg-white rounded-lg hover:bg-gray-100 transition-all duration-200 shadow-lg shadow-white/10"

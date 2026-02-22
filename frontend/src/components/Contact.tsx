@@ -1,10 +1,10 @@
 import { useState, FormEvent } from 'react';
 
 const socialLinks = [
-  { label: "Email", href: "mailto:contact@anujgupta.dev", icon: "email", sub: "contact@anujgupta.dev" },
-  { label: "LinkedIn", href: "https://linkedin.com/in/anujgupta", icon: "linkedin", sub: "/in/anujgupta" },
-  { label: "GitHub", href: "https://github.com/anujgupta", icon: "github", sub: "github.com/anujgupta" },
-  { label: "LeetCode", href: "https://leetcode.com/u/anujgupta", icon: "leetcode", sub: "leetcode.com/u/anujgupta" },
+  { label: "Email", href: "mailto:seriouslyanuj@gmail.com", icon: "email", sub: "seriouslyanuj@gmail.com" },
+  { label: "LinkedIn", href: "https://linkedin.com/in/seriouslyanuj/", icon: "linkedin", sub: "/in/seriouslyanuj/" },
+  { label: "GitHub", href: "https://github.com/seriouslyanuj", icon: "github", sub: "github.com/seriouslyanuj" },
+  { label: "LeetCode", href: "https://leetcode.com/u/seriouslyanuj/", icon: "leetcode", sub: "leetcode.com/u/seriouslyanuj/" },
 ];
 
 const IconEmail = () => (

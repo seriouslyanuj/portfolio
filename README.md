@@ -2,6 +2,8 @@
 
 Restructured from Next.js monolith.
 
+**Live Demo:** https://seriouslyanuj.github.io/portfolio/
+
 ## Project Structure
 
 ```
